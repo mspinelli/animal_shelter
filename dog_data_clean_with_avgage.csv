@@ -1,0 +1,215 @@
+BreedName,AvgWeight(pounds),SizeScore(1to5),Intelligent,Friendliness,AvgAge
+Affenpinscher,10,1,3.0,3.6,11
+Afghan Hound,55,4,2.0,2.8,12
+Airedale Terrier,53,3,4.0,3.0,12
+Akita,105,5,2.0,2.0,11
+Alaskan Klee Kai,15,2,3.0,3.2,14
+Alaskan Malamute,83,4,2.0,3.0,14
+American Black and Tan Coonhound,65,4,3.0,3.8,11
+American Bulldog,45,3,2.5,3.2,10
+American Bully,95,5,3.0,3.2,10
+American Eskimo Dog Toy,9,2,5.0,3.8,14
+American Eskimo Dog Miniature,16,1,5.0,3.8,14
+American Eskimo Dog Standard,30,2,5.0,4.0,14
+American Foxhound,63,4,2.0,4.0,13
+American Hairless Terrier,11,2,3.0,3.8,11
+American Pit Bull Terrier,60,4,3.0,2.6,12
+American Water Spaniel,33,3,4.0,3.0,14
+Australian Cattle Dog,53,3,4.0,2.8,13
+Australian Shepherd,50,3,5.0,3.6,14
+Australian Terrier,14,2,3.0,2.4,14
+Azawakh,45,4,2.0,2.4,11
+Basenji,23,2,2.0,2.4,11
+Basset Griffon Vendeen Grand,45,3,1.0,3.2,12
+Basset Griffon Vendeen Petit,36,3,1.0,3.2,13
+Basset Hound,58,3,2.0,4.6,14
+Beagle,28,2,2.0,4.4,15
+Bearded Collie,50,3,5.0,4.8,13
+Beauceron,75,5,4.0,3.4,11
+Bedlington Terrier,20,2,2.0,2.6,13
+Belgian Laekenois,60,4,5.0,3.4,13
+Belgian Malinois,60,4,4.5,3.0,13
+Belgian Shepherd,58,4,4.5,3.8,13
+Belgian Tervuren,53,3,5.0,3.2,11
+Bergamasco,70,4,3.0,3.6,14
+Berger Des Pyrenees,24,3,4.5,3.2,14
+Berger Picard,60,4,4.0,3.8,13
+Bernese Mountain Dog,93,5,4.0,4.0,9
+Bichon Frise,14,2,4.0,4.8,16
+Black Russian Terrier,113,5,4.0,3.6,11
+Bloodhound,95,5,2.0,4.4,9
+Bluetick Coonhound,70,4,2.0,3.6,11
+Border Collie,38,3,5.0,3.6,14
+Border Terrier,14,2,4.5,3.6,13
+Borzoi,88,4,1.0,2.4,12
+Boston Terrier,18,2,3.0,4.8,12
+Bouvier des Flandres,90,4,5.0,4.0,13
+Boxer,60,4,4.0,3.4,9
+Boykin Spaniel,33,2,4.5,4.0,15
+Briard,80,4,5.0,3.0,11
+Brittany,38,3,4.0,4.4,13
+Brussels Griffon,10,1,3.0,3.6,14
+Bull Terrier Miniature,28,2,2.0,3.0,12
+Bull Terrier Standard,60,4,2.0,3.0,11
+Bullmastiff,115,5,1.0,3.4,10
+Cairn Terrier,14,1,4.0,3.4,15
+Canaan Dog,43,3,3.0,2.2,13
+Cane Corso Italiano,103,5,4.0,2.6,11
+Cardigan Welsh Corgi,32,2,4.0,3.6,14
+Cavalier King Charles Spaniel,16,2,4.0,4.4,12
+Cesky Terrier,18,2,3.0,3.0,14
+Chesapeake Bay Retriever,68,4,4.0,3.6,12
+Chihuahua,6,1,3.0,3.4,16
+Chinese Crested,12,2,3.0,3.8,12
+Chinese Shar Pei,53,3,3.0,3.4,10
+Chinook,73,4,4.0,4.4,13
+Chow Chow,55,3,2.0,2.0,14
+Cirneco dell’Etna,23,2,3.0,3.4,14
+Clumber Spaniel,70,4,4.0,3.8,11
+Cocker Spaniel,25,2,4.5,4.6,14
+Collie,60,4,5.0,4.6,12
+Coton De Tulear,12,2,4.0,5.0,16
+Curly Coated Retriever,73,5,4.0,3.6,12
+Dachshund Miniature,10,1,3.0,3.4,14
+Dachshund Standard,24,2,2.0,3.0,14
+Dalmatian,53,3,5.0,4.6,12
+Dandie Dinmont Terrier,21,2,2.0,1.8,14
+Doberman Pinscher,77,4,5.0,2.8,10
+Dogue De Bordeaux,125,5,3.0,3.0,8
+English Bulldog,53,3,2.5,3.6,9
+English Cocker Spaniel,29,2,4.0,4.8,13
+English Coonhound,53,4,4.0,3.8,12
+English Foxhound,68,4,2.0,4.0,11
+English Pointer,60,4,3.0,3.8,14
+English Setter,63,4,3.0,4.4,11
+English Springer Spaniel,43,3,4.0,3.8,13
+English Toy Spaniel,11,2,3.0,3.4,11
+Entlebucher,60,4,3.0,3.0,11
+Estrela Mountain Dog,103,5,3.0,4.4,14
+Eurasian,55,4,3.0,4.2,12
+Field Spaniel,43,3,4.0,3.6,11
+Finnish Lapphund,43,3,4.0,3.8,13
+Finnish Spitz,33,3,1.0,3.4,14
+Flat Coated Retriever,65,4,5.0,4.6,12
+French Bulldog,26,2,3.0,3.6,10
+German Pinscher,35,3,4.0,2.8,13
+German Shepherd,70,4,5.0,3.8,12
+German Shorthaired Pointer,58,3,4.5,3.4,13
+German Wirehaired Pointer,60,4,4.0,3.2,15
+Giant Schnauzer,78,4,4.0,3.2,11
+Glen of Imaal Terrier,35,3,3.0,3.2,13
+Golden Retriever,65,4,5.0,5.0,11
+Gordon Setter,63,4,4.0,3.6,11
+Great Dane,150,5,3.0,4.0,9
+Great Pyrenees,100,5,2.0,3.6,11
+Greater Swiss Mountain Dog,113,5,4.0,3.8,8
+Greyhound,65,4,3.0,2.8,12
+Harrier,53,4,2.0,4.0,13
+Havanese,10,1,5.0,4.8,15
+Ibizan Hound,43,4,2.0,2.0,11
+Icelandic Sheepdog,25,2,3.0,3.2,14
+Irish Red and White Setter,63,4,4.5,4.0,13
+Irish Setter,53,3,4.0,5.0,11
+Irish Terrier,26,2,3.0,2.8,14
+Irish Water Spaniel,55,4,4.5,3.0,11
+Irish Wolfhound,143,5,3.0,3.6,7
+Italian Greyhound,11,2,2.0,3.4,14
+Jack Russell Terrier,15,2,3.0,4.2,14
+Japanese Chin,7,1,2.0,4.2,13
+Karelian Bear Dog,47,3,2.0,2.2,11
+Keeshond,40,3,3.5,4.8,14
+Kerry Blue Terrier,35,3,4.0,3.4,14
+Komondor,103,5,4.0,2.6,11
+Kooikerhondje,30,3,2.0,3.0,13
+Kuvasz,93,5,2.0,1.8,11
+Labrador Retriever,68,4,5.0,4.6,13
+Lagotto Romagnolo,30,3,4.0,3.6,15
+Lakeland Terrier,16,2,1.0,2.8,14
+Large Munsterlander,48,4,5.0,4.6,11
+Leonberger,145,5,4.0,4.6,9
+Lhasa Apso,15,2,2.0,4.2,14
+Lowchen,13,2,3.0,3.2,13
+Lundehund,14,2,2.0,3.4,12
+Maltese,6,1,2.0,4.2,17
+Manchester Terrier Standard,17,2,4.0,3.2,15
+Manchester Terrier Toy,10,1,4.0,3.2,15
+Mastiff,175,5,2.0,4.2,9
+Miniature American Shepherd,30,3,5.0,3.4,14
+Miniature Pinscher,10,1,4.0,3.6,15
+Miniature Schnauzer,16,2,4.5,3.4,13
+Neapolitan Mastiff,155,5,3.0,2.4,9
+Newfoundland,125,5,3.0,4.4,9
+Norfolk Terrier,12,1,1.0,3.8,14
+Norwegian Buhund,35,3,4.0,3.4,14
+Norwegian Elkhound,52,3,3.0,3.6,11
+Norwich Terrier,12,1,3.0,3.8,14
+Nova Scotia Duck Tolling Retriever,43,3,5.0,4.2,13
+Old English Sheepdog,80,4,2.0,4.0,11
+Otterhound,98,5,1.0,3.8,12
+Papillon,8,1,5.0,4.2,15
+Parson Russell Terrier,15,2,5.0,3.8,14
+Pekingese,12,1,2.0,3.0,16
+Pembroke Welsh Corgi,28,2,4.0,3.8,13
+Peruvian Inca Orchid,22,2,4.0,2.8,12
+Pharaoh Hound,50,4,3.0,2.2,13
+Plott Hound,53,4,4.0,2.8,13
+Polish Owczarek Nizinny,43,3,2.0,3.4,14
+Pomeranian,5,1,3.0,3.8,16
+Poodle Standard,48,3,5.0,4.4,16
+Poodle Toy,8,1,5.0,4.2,16
+Poodle Miniature,14,2,5.0,4.2,16
+Portuguese Podengo Pequeno,11,2,4.0,3.6,17
+Portuguese Podengo Medio,40,3,4.0,3.6,15
+Portuguese Podengo Grande,55,4,4.0,3.6,13
+Portuguese Water Dog,48,3,4.0,3.6,12
+Pug,16,2,2.0,4.8,13
+Puli,30,3,4.5,3.4,14
+Rat Terrier,24,3,3.0,3.8,17
+Redbone Coonhound,60,4,3.0,3.0,13
+Rhodesian Ridgeback,78,5,4.0,3.6,11
+Rottweiler,100,5,4.0,2.4,9
+Russell Terrier,13,2,3.0,4.2,14
+Saint Bernard,155,5,2.0,4.8,9
+Saluki,50,3,2.0,2.4,13
+Samoyed,55,3,3.0,4.2,13
+Schipperke,13,2,3.5,3.0,14
+Scottish Deerhound,93,5,3.0,2.4,10
+Scottish Terrier,20,2,2.0,3.0,12
+Sealyham Terrier,24,2,2.0,2.2,13
+Shetland Sheepdog,28,2,5.0,4.4,13
+Shiba,20,2,2.0,3.0,14
+Shih Tzu,13,1,2.0,4.2,14
+Siberian Husky,48,3,2.0,3.8,12
+Silky Terrier,9,1,3.5,3.4,14
+Skye Terrier,33,2,2.0,2.4,13
+Sloughi,50,4,3.0,2.8,14
+Small Munsterlander,50,3,5.0,4.6,13
+Smooth Fox Terrier,16,2,4.0,3.0,13
+Soft Coated Wheaten Terrier,35,2,3.0,4.4,14
+South African Boerboel,165,5,3.0,2.6,11
+Spanish Water Dog,40,3,4.0,3.2,13
+Spinone Italiano,73,4,4.0,4.6,11
+Staffordshire Bull Terrier,31,2,2.0,4.0,13
+Standard Schnauzer,40,3,4.0,3.0,14
+Sussex Spaniel,40,3,2.0,4.0,13
+Swedish Vallhund,28,2,4.0,3.8,13
+Teddy Roosevelt Terrier,15,2,4.0,3.4,14
+Tibetan Mastiff,113,5,3.5,3.0,12
+Tibetan Spaniel,12,1,3.0,4.0,14
+Tibetan Terrier,22,2,1.0,4.2,14
+Toy Fox Terrier,6,1,4.5,3.6,14
+Treeing Cur,43,3,3.0,3.2,11
+Treeing Walker Coonhound,60,4,4.0,3.0,13
+Vizsla,55,4,5.0,4.6,12
+Weimaraner,60,4,4.0,3.4,12
+Welsh Springer Spaniel,45,3,5.0,4.2,14
+Welsh Terrier,21,2,3.0,3.4,12
+West Highland White Terrier,19,2,3.0,4.0,18
+Whippet,30,3,3.0,3.2,14
+Wire Fox Terrier,16,2,2.0,3.2,13
+Wirehaired Pointing Griffon,55,4,3.0,3.8,11
+Wirehaired Vizsla,55,4,5.0,4.6,12
+Xoloitzcuintli Miniature,18,2,4.0,3.8,13
+Xoloitzcuintli Toy,14,2,4.0,3.8,13
+Xoloitzcuintli Standard,26,2,4.0,3.8,13
+Yorkshire Terrier,6,1,3.0,3.6,14

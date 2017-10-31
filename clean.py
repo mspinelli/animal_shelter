@@ -16,7 +16,8 @@ bins = [-5, 0, 5 * units["month"], 12 * units["month"], 3*units["year"],
         6 * units["year"], 10*units["year"], 50 * units["year"]]
 labels = ["Unknown", "Infant", "Puppy/Kitten", "Young Adult", "Adult", "Senior", "Geriatric"]
 im_p = .53
-dog_data_clean = load_clean_dog_data()
+# dog_data_clean = load_clean_dog_data()
+dog_data_clean = pd.read_csv("dog_data_clean_with_avgage.csv")
 
 color_pattern = dict(
     Tabby='Tabby',
@@ -297,7 +298,7 @@ def make_features(status="test"):
 
 def impute_features(df):
     # gt = pd.read_csv("train.csv.gz", compression='gzip')
-    columns_of_interest = range(7, 26)
+    columns_of_interest = range(7, 27)
 
     for col in df.columns[columns_of_interest]:
         # all BlendedColor missings are bc the records are not color
@@ -310,4 +311,3 @@ def impute_features(df):
         else:
             multinomial_impute(df.loc[df.AnimalType=="Dog", col], data=df)
     return df
-
