@@ -1,215 +1,215 @@
-BreedName,Bredfor,AvgWeight(pounds),SizeScore(1to5),Intelligent,Friendliness
-Affenpinscher,Companion,10,1,3.0,3.6
-Afghan Hound,Tracking,55,4,2.0,2.8
-Airedale Terrier,Retrieving,53,3,4.0,3.0
-Akita,Hunting,105,5,2.0,2.0
-Alaskan Klee Kai,Companion,15,2,3.0,3.2
-Alaskan Malamute,Working,83,4,2.0,3.0
-American Black and Tan Coonhound,Tracking,65,4,3.0,3.8
-American Bulldog,Guarding,45,3,2.5,3.2
-American Bully,Companion,95,5,3.0,3.2
-American Eskimo Dog Toy,Companion,9,2,5.0,3.8
-American Eskimo Dog Miniature,Companion,16,1,5.0,3.8
-American Eskimo Dog Standard,Guarding,30,2,5.0,4.0
-American Foxhound,Tracking,63,4,2.0,4.0
-American Hairless Terrier,Working,11,2,3.0,3.8
-American Pit Bull Terrier,Guarding,60,4,3.0,2.6
-American Water Spaniel,Retrieving,33,3,4.0,3.0
-Australian Cattle Dog,Working,53,3,4.0,2.8
-Australian Shepherd,Working,50,3,5.0,3.6
-Australian Terrier,Hunting,14,2,3.0,2.4
-Azawakh,Tracking,45,4,2.0,2.4
-Basenji,Tracking,23,2,2.0,2.4
-Basset Griffon Vendeen Grand,Tracking,45,3,1.0,3.2
-Basset Griffon Vendeen Petit,Tracking,36,3,1.0,3.2
-Basset Hound,Tracking,58,3,2.0,4.6
-Beagle,Tracking,28,2,2.0,4.4
-Bearded Collie,Working,50,3,5.0,4.8
-Beauceron,Working,75,5,4.0,3.4
-Bedlington Terrier,Hunting,20,2,2.0,2.6
-Belgian Laekenois,Working,60,4,5.0,3.4
-Belgian Malinois,Working,60,4,4.5,3.0
-Belgian Shepherd,Working,58,4,4.5,3.8
-Belgian Tervuren,Working,53,3,5.0,3.2
-Bergamasco,Working,70,4,3.0,3.6
-Berger Des Pyrenees,Working,24,3,4.5,3.2
-Berger Picard,Working,60,4,4.0,3.8
-Bernese Mountain Dog,Guarding,93,5,4.0,4.0
-Bichon Frise,Companion,14,2,4.0,4.8
-Black Russian Terrier,Guarding,113,5,4.0,3.6
-Bloodhound,Tracking,95,5,2.0,4.4
-Bluetick Coonhound,Tracking,70,4,2.0,3.6
-Border Collie,Working,38,3,5.0,3.6
-Border Terrier,Hunting,14,2,4.5,3.6
-Borzoi,Tracking,88,4,1.0,2.4
-Boston Terrier,Companion,18,2,3.0,4.8
-Bouvier des Flandres,Working,90,4,5.0,4.0
-Boxer,Guarding,60,4,4.0,3.4
-Boykin Spaniel,Retrieving,33,2,4.5,4.0
-Briard,Working,80,4,5.0,3.0
-Brittany,Retrieving,38,3,4.0,4.4
-Brussels Griffon,Companion,10,1,3.0,3.6
-Bull Terrier Miniature,Companion,28,2,2.0,3.0
-Bull Terrier Standard,Companion,60,4,2.0,3.0
-Bullmastiff,Guarding,115,5,1.0,3.4
-Cairn Terrier,Hunting,14,1,4.0,3.4
-Canaan Dog,Tracking,43,3,3.0,2.2
-Cane Corso Italiano,Guarding,103,5,4.0,2.6
-Cardigan Welsh Corgi,Working,32,2,4.0,3.6
-Cavalier King Charles Spaniel,Companion,16,2,4.0,4.4
-Cesky Terrier,Hunting,18,2,3.0,3.0
-Chesapeake Bay Retriever,Retrieving,68,4,4.0,3.6
-Chihuahua,Companion,6,1,3.0,3.4
-Chinese Crested,Companion,12,2,3.0,3.8
-Chinese Shar Pei,Working,53,3,3.0,3.4
-Chinook,Working,73,4,4.0,4.4
-Chow Chow,Working,55,3,2.0,2.0
-Cirneco dell’Etna,Hunting,23,2,3.0,3.4
-Clumber Spaniel,Retrieving,70,4,4.0,3.8
-Cocker Spaniel,Retrieving,25,2,4.5,4.6
-Collie,Working,60,4,5.0,4.6
-Coton De Tulear,Companion,12,2,4.0,5.0
-Curly Coated Retriever,Retrieving,73,5,4.0,3.6
-Dachshund Miniature,Tracking,10,1,3.0,3.4
-Dachshund Standard,Tracking,24,2,2.0,3.0
-Dalmatian,Companion,53,3,5.0,4.6
-Dandie Dinmont Terrier,Hunting,21,2,2.0,1.8
-Doberman Pinscher,Guarding,77,4,5.0,2.8
-Dogue De Bordeaux,Guarding,125,5,3.0,3.0
-English Bulldog,Companion,53,3,2.5,3.6
-English Cocker Spaniel,Retrieving,29,2,4.0,4.8
-English Coonhound,Tracking,53,4,4.0,3.8
-English Foxhound,Tracking,68,4,2.0,4.0
-English Pointer,Retrieving,60,4,3.0,3.8
-English Setter,Retrieving,63,4,3.0,4.4
-English Springer Spaniel,Retrieving,43,3,4.0,3.8
-English Toy Spaniel,Companion,11,2,3.0,3.4
-Entlebucher,Guarding,60,4,3.0,3.0
-Estrela Mountain Dog,Guarding,103,5,3.0,4.4
-Eurasian,Companion,55,4,3.0,4.2
-Field Spaniel,Retrieving,43,3,4.0,3.6
-Finnish Lapphund,Working,43,3,4.0,3.8
-Finnish Spitz,Hunting,33,3,1.0,3.4
-Flat Coated Retriever,Retrieving,65,4,5.0,4.6
-French Bulldog,Companion,26,2,3.0,3.6
-German Pinscher,Hunting,35,3,4.0,2.8
-German Shepherd,Working,70,4,5.0,3.8
-German Shorthaired Pointer,Retrieving,58,3,4.5,3.4
-German Wirehaired Pointer,Retrieving,60,4,4.0,3.2
-Giant Schnauzer,Guarding,78,4,4.0,3.2
-Glen of Imaal Terrier,Hunting,35,3,3.0,3.2
-Golden Retriever,Retrieving,65,4,5.0,5.0
-Gordon Setter,Retrieving,63,4,4.0,3.6
-Great Dane,Guarding,150,5,3.0,4.0
-Great Pyrenees,Guarding,100,5,2.0,3.6
-Greater Swiss Mountain Dog,Guarding,113,5,4.0,3.8
-Greyhound,Tracking,65,4,3.0,2.8
-Harrier,Tracking,53,4,2.0,4.0
-Havanese,Companion,10,1,5.0,4.8
-Ibizan Hound,Tracking,43,4,2.0,2.0
-Icelandic Sheepdog,Working,25,2,3.0,3.2
-Irish Red and White Setter,Retrieving,63,4,4.5,4.0
-Irish Setter,Retrieving,53,3,4.0,5.0
-Irish Terrier,Hunting,26,2,3.0,2.8
-Irish Water Spaniel,Retrieving,55,4,4.5,3.0
-Irish Wolfhound,Tracking,143,5,3.0,3.6
-Italian Greyhound,Companion,11,2,2.0,3.4
-Jack Russell Terrier,Hunting,15,2,3.0,4.2
-Japanese Chin,Companion,7,1,2.0,4.2
-Karelian Bear Dog,Hunting,47,3,2.0,2.2
-Keeshond,Guarding,40,3,3.5,4.8
-Kerry Blue Terrier,Working,35,3,4.0,3.4
-Komondor,Guarding,103,5,4.0,2.6
-Kooikerhondje,Retrieving,30,3,2.0,3.0
-Kuvasz,Guarding,93,5,2.0,1.8
-Labrador Retriever,Retrieving,68,4,5.0,4.6
-Lagotto Romagnolo,Retrieving,30,3,4.0,3.6
-Lakeland Terrier,Hunting,16,2,1.0,2.8
-Large Munsterlander,Retrieving,48,4,5.0,4.6
-Leonberger,Guarding,145,5,4.0,4.6
-Lhasa Apso,Companion,15,2,2.0,4.2
-Lowchen,Companion,13,2,3.0,3.2
-Lundehund,Hunting,14,2,2.0,3.4
-Maltese,Companion,6,1,2.0,4.2
-Manchester Terrier Standard,Hunting,17,2,4.0,3.2
-Manchester Terrier Toy,Hunting,10,1,4.0,3.2
-Mastiff,Guarding,175,5,2.0,4.2
-Miniature American Shepherd,Working,30,3,5.0,3.4
-Miniature Pinscher,Companion,10,1,4.0,3.6
-Miniature Schnauzer,Companion,16,2,4.5,3.4
-Neapolitan Mastiff,Guarding,155,5,3.0,2.4
-Newfoundland,Guarding,125,5,3.0,4.4
-Norfolk Terrier,Hunting,12,1,1.0,3.8
-Norwegian Buhund,Working,35,3,4.0,3.4
-Norwegian Elkhound,Hunting,52,3,3.0,3.6
-Norwich Terrier,Hunting,12,1,3.0,3.8
-Nova Scotia Duck Tolling Retriever,Retrieving,43,3,5.0,4.2
-Old English Sheepdog,Working,80,4,2.0,4.0
-Otterhound,Hunting,98,5,1.0,3.8
-Papillon,Companion,8,1,5.0,4.2
-Parson Russell Terrier,Hunting,15,2,5.0,3.8
-Pekingese,Companion,12,1,2.0,3.0
-Pembroke Welsh Corgi,Working,28,2,4.0,3.8
-Peruvian Inca Orchid,Tracking,22,2,4.0,2.8
-Pharaoh Hound,Tracking,50,4,3.0,2.2
-Plott Hound,Tracking,53,4,4.0,2.8
-Polish Owczarek Nizinny,Working,43,3,2.0,3.4
-Pomeranian,Companion,5,1,3.0,3.8
-Poodle Standard,Companion,48,3,5.0,4.4
-Poodle Toy,Companion,8,1,5.0,4.2
-Poodle Miniature,Companion,14,2,5.0,4.2
-Portuguese Podengo Pequeno,Hunting,11,2,4.0,3.6
-Portuguese Podengo Medio,Hunting,40,3,4.0,3.6
-Portuguese Podengo Grande,Hunting,55,4,4.0,3.6
-Portuguese Water Dog,Retrieving,48,3,4.0,3.6
-Pug,Companion,16,2,2.0,4.8
-Puli,Working,30,3,4.5,3.4
-Rat Terrier,Hunting,24,3,3.0,3.8
-Redbone Coonhound,Tracking,60,4,3.0,3.0
-Rhodesian Ridgeback,Tracking,78,5,4.0,3.6
-Rottweiler,Guarding,100,5,4.0,2.4
-Russell Terrier,Hunting,13,2,3.0,4.2
-Saint Bernard,Guarding,155,5,2.0,4.8
-Saluki,Tracking,50,3,2.0,2.4
-Samoyed,Working,55,3,3.0,4.2
-Schipperke,Companion,13,2,3.5,3.0
-Scottish Deerhound,Tracking,93,5,3.0,2.4
-Scottish Terrier,Hunting,20,2,2.0,3.0
-Sealyham Terrier,Hunting,24,2,2.0,2.2
-Shetland Sheepdog,Working,28,2,5.0,4.4
-Shiba,Hunting,20,2,2.0,3.0
-Shih Tzu,Companion,13,1,2.0,4.2
-Siberian Husky,Working,48,3,2.0,3.8
-Silky Terrier,Companion,9,1,3.5,3.4
-Skye Terrier,Hunting,33,2,2.0,2.4
-Sloughi,Tracking,50,4,3.0,2.8
-Small Munsterlander,Retrieving,50,3,5.0,4.6
-Smooth Fox Terrier,Hunting,16,2,4.0,3.0
-Soft Coated Wheaten Terrier,Working,35,2,3.0,4.4
-South African Boerboel,Guarding,165,5,3.0,2.6
-Spanish Water Dog,Working,40,3,4.0,3.2
-Spinone Italiano,Retrieving,73,4,4.0,4.6
-Staffordshire Bull Terrier,Guarding,31,2,2.0,4.0
-Standard Schnauzer,Guarding,40,3,4.0,3.0
-Sussex Spaniel,Retrieving,40,3,2.0,4.0
-Swedish Vallhund,Working,28,2,4.0,3.8
-Teddy Roosevelt Terrier,Companion,15,2,4.0,3.4
-Tibetan Mastiff,Guarding,113,5,3.5,3.0
-Tibetan Spaniel,Companion,12,1,3.0,4.0
-Tibetan Terrier,Companion,22,2,1.0,4.2
-Toy Fox Terrier,Hunting,6,1,4.5,3.6
-Treeing Cur,Tracking,43,3,3.0,3.2
-Treeing Walker Coonhound,Tracking,60,4,4.0,3.0
-Vizsla,Hunting,55,4,5.0,4.6
-Weimaraner,Retrieving,60,4,4.0,3.4
-Welsh Springer Spaniel,Retrieving,45,3,5.0,4.2
-Welsh Terrier,Hunting,21,2,3.0,3.4
-West Highland White Terrier,Hunting,19,2,3.0,4.0
-Whippet,Tracking,30,3,3.0,3.2
-Wire Fox Terrier,Hunting,16,2,2.0,3.2
-Wirehaired Pointing Griffon,Retrieving,55,4,3.0,3.8
-Wirehaired Vizsla,Hunting,55,4,5.0,4.6
-Xoloitzcuintli Miniature,Tracking,18,2,4.0,3.8
-Xoloitzcuintli Toy,Tracking,14,2,4.0,3.8
-Xoloitzcuintli Standard,Tracking,26,2,4.0,3.8
-Yorkshire Terrier,Companion,6,1,3.0,3.6
+BreedName,AvgWeight(pounds),SizeScore(1to5),Intelligent,Friendliness
+Affenpinscher,10,1,3.0,3.6
+Afghan Hound,55,4,2.0,2.8
+Airedale Terrier,53,3,4.0,3.0
+Akita,105,5,2.0,2.0
+Alaskan Klee Kai,15,2,3.0,3.2
+Alaskan Malamute,83,4,2.0,3.0
+American Black and Tan Coonhound,65,4,3.0,3.8
+American Bulldog,45,3,2.5,3.2
+American Bully,95,5,3.0,3.2
+American Eskimo Dog Toy,9,2,5.0,3.8
+American Eskimo Dog Miniature,16,1,5.0,3.8
+American Eskimo Dog Standard,30,2,5.0,4.0
+American Foxhound,63,4,2.0,4.0
+American Hairless Terrier,11,2,3.0,3.8
+American Pit Bull Terrier,60,4,3.0,2.6
+American Water Spaniel,33,3,4.0,3.0
+Australian Cattle Dog,53,3,4.0,2.8
+Australian Shepherd,50,3,5.0,3.6
+Australian Terrier,14,2,3.0,2.4
+Azawakh,45,4,2.0,2.4
+Basenji,23,2,2.0,2.4
+Basset Griffon Vendeen Grand,45,3,1.0,3.2
+Basset Griffon Vendeen Petit,36,3,1.0,3.2
+Basset Hound,58,3,2.0,4.6
+Beagle,28,2,2.0,4.4
+Bearded Collie,50,3,5.0,4.8
+Beauceron,75,5,4.0,3.4
+Bedlington Terrier,20,2,2.0,2.6
+Belgian Laekenois,60,4,5.0,3.4
+Belgian Malinois,60,4,4.5,3.0
+Belgian Shepherd,58,4,4.5,3.8
+Belgian Tervuren,53,3,5.0,3.2
+Bergamasco,70,4,3.0,3.6
+Berger Des Pyrenees,24,3,4.5,3.2
+Berger Picard,60,4,4.0,3.8
+Bernese Mountain Dog,93,5,4.0,4.0
+Bichon Frise,14,2,4.0,4.8
+Black Russian Terrier,113,5,4.0,3.6
+Bloodhound,95,5,2.0,4.4
+Bluetick Coonhound,70,4,2.0,3.6
+Border Collie,38,3,5.0,3.6
+Border Terrier,14,2,4.5,3.6
+Borzoi,88,4,1.0,2.4
+Boston Terrier,18,2,3.0,4.8
+Bouvier des Flandres,90,4,5.0,4.0
+Boxer,60,4,4.0,3.4
+Boykin Spaniel,33,2,4.5,4.0
+Briard,80,4,5.0,3.0
+Brittany,38,3,4.0,4.4
+Brussels Griffon,10,1,3.0,3.6
+Bull Terrier Miniature,28,2,2.0,3.0
+Bull Terrier Standard,60,4,2.0,3.0
+Bullmastiff,115,5,1.0,3.4
+Cairn Terrier,14,1,4.0,3.4
+Canaan Dog,43,3,3.0,2.2
+Cane Corso Italiano,103,5,4.0,2.6
+Cardigan Welsh Corgi,32,2,4.0,3.6
+Cavalier King Charles Spaniel,16,2,4.0,4.4
+Cesky Terrier,18,2,3.0,3.0
+Chesapeake Bay Retriever,68,4,4.0,3.6
+Chihuahua,6,1,3.0,3.4
+Chinese Crested,12,2,3.0,3.8
+Chinese Shar Pei,53,3,3.0,3.4
+Chinook,73,4,4.0,4.4
+Chow Chow,55,3,2.0,2.0
+Cirneco dell’Etna,23,2,3.0,3.4
+Clumber Spaniel,70,4,4.0,3.8
+Cocker Spaniel,25,2,4.5,4.6
+Collie,60,4,5.0,4.6
+Coton De Tulear,12,2,4.0,5.0
+Curly Coated Retriever,73,5,4.0,3.6
+Dachshund Miniature,10,1,3.0,3.4
+Dachshund Standard,24,2,2.0,3.0
+Dalmatian,53,3,5.0,4.6
+Dandie Dinmont Terrier,21,2,2.0,1.8
+Doberman Pinscher,77,4,5.0,2.8
+Dogue De Bordeaux,125,5,3.0,3.0
+English Bulldog,53,3,2.5,3.6
+English Cocker Spaniel,29,2,4.0,4.8
+English Coonhound,53,4,4.0,3.8
+English Foxhound,68,4,2.0,4.0
+English Pointer,60,4,3.0,3.8
+English Setter,63,4,3.0,4.4
+English Springer Spaniel,43,3,4.0,3.8
+English Toy Spaniel,11,2,3.0,3.4
+Entlebucher,60,4,3.0,3.0
+Estrela Mountain Dog,103,5,3.0,4.4
+Eurasian,55,4,3.0,4.2
+Field Spaniel,43,3,4.0,3.6
+Finnish Lapphund,43,3,4.0,3.8
+Finnish Spitz,33,3,1.0,3.4
+Flat Coated Retriever,65,4,5.0,4.6
+French Bulldog,26,2,3.0,3.6
+German Pinscher,35,3,4.0,2.8
+German Shepherd,70,4,5.0,3.8
+German Shorthaired Pointer,58,3,4.5,3.4
+German Wirehaired Pointer,60,4,4.0,3.2
+Giant Schnauzer,78,4,4.0,3.2
+Glen of Imaal Terrier,35,3,3.0,3.2
+Golden Retriever,65,4,5.0,5.0
+Gordon Setter,63,4,4.0,3.6
+Great Dane,150,5,3.0,4.0
+Great Pyrenees,100,5,2.0,3.6
+Greater Swiss Mountain Dog,113,5,4.0,3.8
+Greyhound,65,4,3.0,2.8
+Harrier,53,4,2.0,4.0
+Havanese,10,1,5.0,4.8
+Ibizan Hound,43,4,2.0,2.0
+Icelandic Sheepdog,25,2,3.0,3.2
+Irish Red and White Setter,63,4,4.5,4.0
+Irish Setter,53,3,4.0,5.0
+Irish Terrier,26,2,3.0,2.8
+Irish Water Spaniel,55,4,4.5,3.0
+Irish Wolfhound,143,5,3.0,3.6
+Italian Greyhound,11,2,2.0,3.4
+Jack Russell Terrier,15,2,3.0,4.2
+Japanese Chin,7,1,2.0,4.2
+Karelian Bear Dog,47,3,2.0,2.2
+Keeshond,40,3,3.5,4.8
+Kerry Blue Terrier,35,3,4.0,3.4
+Komondor,103,5,4.0,2.6
+Kooikerhondje,30,3,2.0,3.0
+Kuvasz,93,5,2.0,1.8
+Labrador Retriever,68,4,5.0,4.6
+Lagotto Romagnolo,30,3,4.0,3.6
+Lakeland Terrier,16,2,1.0,2.8
+Large Munsterlander,48,4,5.0,4.6
+Leonberger,145,5,4.0,4.6
+Lhasa Apso,15,2,2.0,4.2
+Lowchen,13,2,3.0,3.2
+Lundehund,14,2,2.0,3.4
+Maltese,6,1,2.0,4.2
+Manchester Terrier Standard,17,2,4.0,3.2
+Manchester Terrier Toy,10,1,4.0,3.2
+Mastiff,175,5,2.0,4.2
+Miniature American Shepherd,30,3,5.0,3.4
+Miniature Pinscher,10,1,4.0,3.6
+Miniature Schnauzer,16,2,4.5,3.4
+Neapolitan Mastiff,155,5,3.0,2.4
+Newfoundland,125,5,3.0,4.4
+Norfolk Terrier,12,1,1.0,3.8
+Norwegian Buhund,35,3,4.0,3.4
+Norwegian Elkhound,52,3,3.0,3.6
+Norwich Terrier,12,1,3.0,3.8
+Nova Scotia Duck Tolling Retriever,43,3,5.0,4.2
+Old English Sheepdog,80,4,2.0,4.0
+Otterhound,98,5,1.0,3.8
+Papillon,8,1,5.0,4.2
+Parson Russell Terrier,15,2,5.0,3.8
+Pekingese,12,1,2.0,3.0
+Pembroke Welsh Corgi,28,2,4.0,3.8
+Peruvian Inca Orchid,22,2,4.0,2.8
+Pharaoh Hound,50,4,3.0,2.2
+Plott Hound,53,4,4.0,2.8
+Polish Owczarek Nizinny,43,3,2.0,3.4
+Pomeranian,5,1,3.0,3.8
+Poodle Standard,48,3,5.0,4.4
+Poodle Toy,8,1,5.0,4.2
+Poodle Miniature,14,2,5.0,4.2
+Portuguese Podengo Pequeno,11,2,4.0,3.6
+Portuguese Podengo Medio,40,3,4.0,3.6
+Portuguese Podengo Grande,55,4,4.0,3.6
+Portuguese Water Dog,48,3,4.0,3.6
+Pug,16,2,2.0,4.8
+Puli,30,3,4.5,3.4
+Rat Terrier,24,3,3.0,3.8
+Redbone Coonhound,60,4,3.0,3.0
+Rhodesian Ridgeback,78,5,4.0,3.6
+Rottweiler,100,5,4.0,2.4
+Russell Terrier,13,2,3.0,4.2
+Saint Bernard,155,5,2.0,4.8
+Saluki,50,3,2.0,2.4
+Samoyed,55,3,3.0,4.2
+Schipperke,13,2,3.5,3.0
+Scottish Deerhound,93,5,3.0,2.4
+Scottish Terrier,20,2,2.0,3.0
+Sealyham Terrier,24,2,2.0,2.2
+Shetland Sheepdog,28,2,5.0,4.4
+Shiba,20,2,2.0,3.0
+Shih Tzu,13,1,2.0,4.2
+Siberian Husky,48,3,2.0,3.8
+Silky Terrier,9,1,3.5,3.4
+Skye Terrier,33,2,2.0,2.4
+Sloughi,50,4,3.0,2.8
+Small Munsterlander,50,3,5.0,4.6
+Smooth Fox Terrier,16,2,4.0,3.0
+Soft Coated Wheaten Terrier,35,2,3.0,4.4
+South African Boerboel,165,5,3.0,2.6
+Spanish Water Dog,40,3,4.0,3.2
+Spinone Italiano,73,4,4.0,4.6
+Staffordshire Bull Terrier,31,2,2.0,4.0
+Standard Schnauzer,40,3,4.0,3.0
+Sussex Spaniel,40,3,2.0,4.0
+Swedish Vallhund,28,2,4.0,3.8
+Teddy Roosevelt Terrier,15,2,4.0,3.4
+Tibetan Mastiff,113,5,3.5,3.0
+Tibetan Spaniel,12,1,3.0,4.0
+Tibetan Terrier,22,2,1.0,4.2
+Toy Fox Terrier,6,1,4.5,3.6
+Treeing Cur,43,3,3.0,3.2
+Treeing Walker Coonhound,60,4,4.0,3.0
+Vizsla,55,4,5.0,4.6
+Weimaraner,60,4,4.0,3.4
+Welsh Springer Spaniel,45,3,5.0,4.2
+Welsh Terrier,21,2,3.0,3.4
+West Highland White Terrier,19,2,3.0,4.0
+Whippet,30,3,3.0,3.2
+Wire Fox Terrier,16,2,2.0,3.2
+Wirehaired Pointing Griffon,55,4,3.0,3.8
+Wirehaired Vizsla,55,4,5.0,4.6
+Xoloitzcuintli Miniature,18,2,4.0,3.8
+Xoloitzcuintli Toy,14,2,4.0,3.8
+Xoloitzcuintli Standard,26,2,4.0,3.8
+Yorkshire Terrier,6,1,3.0,3.6
