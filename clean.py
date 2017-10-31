@@ -5,14 +5,14 @@ from scipy.stats import bernoulli
 from customize_functions import load_clean_dog_data
 
 tx_holidays = MyHolidays.MyHolidays(state="TX", years=[2015])
-units = {"year" : 365, "month":31, "day":1, "week":7}
+units = {"year": 365, "month": 31, "day": 1, "week": 7}
 bins = [-5, 0, 5 * units["month"], 12 * units["month"], 3*units["year"],
         6 * units["year"], 10*units["year"], 20 * units["year"]]
 labels = ["Unknown", "Infant", "Puppy/Kitten", "Young Adult", "Adult", "Senior", "Geriatric"]
 
 
 def is_holiday(dt):
-    if (dt.month in [1, 12, 7, 8]) or (dt.date() in tx_holidays) or dt.weekday() in [5,6]:
+    if (dt.month in [1, 12, 7, 8]) or (dt.date() in tx_holidays) or dt.weekday() in [5, 6]:
         return True
     return False
 
@@ -27,12 +27,14 @@ def unknown_sex(sexstring):
     else:
         return sexstring
 
+
 def get_age_in_days(agestring):
     tokens = agestring.split(" ")
     unit = tokens[1].replace("s","")
     days = int(tokens[0]) * units[unit]
     # return days
     return days if days != 0 else -1
+
 
 def make_features():
     animals = pd.read_csv("test.csv", compression='gzip')
@@ -54,6 +56,7 @@ def make_features():
 
     # skipping bernoulli sex
 
+    # Now adding dog data
     dog_data_clean = load_clean_dog_data()
 
 if __name__ == "__main__":
