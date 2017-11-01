@@ -244,7 +244,7 @@ def multinomial_impute(series, data):
 
 def make_features(status="test"):
     if(status=="test"):
-        animals = pd.read_csv("test.csv.gz", compression='gzip').iloc[:,1:]
+        animals = pd.read_csv("test.csv.gz", compression='gzip')
     else: # train data
         animals = pd.read_csv("train.csv.gz", compression='gzip')
         # print "here!"
@@ -270,7 +270,6 @@ def make_features(status="test"):
     animals["LifeStage"] = pd.Categorical(pd.cut(animals.AgeinDays, bins=bins, labels=labels), categories=labels)
 
     animals["BernoulliSex"] = animals["SexuponOutcome"].map(unknown_sex, na_action="ignore")
-    # Now adding dog data
 
     animals[dog_data_clean.columns[1:]] = (animals[animals.AnimalType == 'Dog'].apply(add_dog_data, axis=1))
     animals['MixType'] = animals["Breed"].map(mix_type)
@@ -287,7 +286,7 @@ def make_features(status="test"):
 
     # putting any existing different feature columns in the back if making train
     if (status=="train"):
-        test = pd.read_csv("test.csv.gz", compression='gzip').iloc[:,1:]
+        test = pd.read_csv("test.csv.gz", compression='gzip')
         colmask = np.array([idx in test.columns for idx in animals.columns[:numofcols]])
         # print colmask
         cols = animals.columns[:numofcols][colmask].tolist() + \
@@ -299,7 +298,7 @@ def make_features(status="test"):
 
 def impute_features(df):
     # gt = pd.read_csv("train.csv.gz", compression='gzip')
-    columns_of_interest = range(7, 27)
+    columns_of_interest = [3] + range(8, 28)
 
     for col in df.columns[columns_of_interest]:
         # all BlendedColor missings are bc the records are not color
@@ -312,3 +311,19 @@ def impute_features(df):
         else:
             multinomial_impute(df.loc[df.AnimalType=="Dog", col], data=df)
     return df
+
+def binary_encoder(train_df, test_df, column_indices=None):
+    import category_encoders as ce
+    columns_of_interest =  [3]+range(8, 28) if column_indices is None else column_indices
+
+    train_df_copy = train_df.iloc[:, columns_of_interest].copy()
+    test_df_copy = test_df.iloc[:, columns_of_interest].copy()
+    total_df = pd.concat([train_df_copy, test_df_copy], axis=0)
+
+    encoder = ce.BinaryEncoder(verbose=1, cols=train_df_copy.columns[columns_of_interest].tolist(),
+                               drop_invariant=False,
+                               return_df=True,
+                               impute_missing=True,
+                               handle_unknown="impute")
+    encoder.fit(total_df, verbose=1)
+    train_df_binary = encoder.transform(train_df_copy)
