@@ -247,9 +247,10 @@ def make_features(status="test"):
         animals = pd.read_csv("test.csv.gz", compression='gzip').iloc[:,1:]
     else: # train data
         animals = pd.read_csv("train.csv.gz", compression='gzip')
-        print "here!"
+        # print "here!"
         animals.loc[3174, "SexuponOutcome"] = "Neutered Male"
         numofcols = animals.shape[-1]
+
 
     animals['HasName'] = animals.Name.map(lambda x: 0 if x == 'X' else 1, na_action='ignore')
     animals['HasName'].fillna(value=0, inplace=True)
